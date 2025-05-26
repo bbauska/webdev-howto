@@ -19,10 +19,6 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 [**Learn more about the course >**](https://thinkdobecreate.com/learnwebdev)
 
-[**Subscribe for access to all video courses >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/)
-
-[**Support this project on Patreon >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/) and get early access to new videos!
-
 _This repository will be kept updated as new videos are released for the corresponding YouTube video series._
 
 ## Course Video Links
@@ -35,39 +31,39 @@ _Subject to change slightly as videos are recorded_
 
 ### START HERE: Foundations
 
-[Course Introduction / Meet Steph](https://youtu.be/YYU-dJ7_UZo)
+[Course Introduction / Meet Steph (video)](https://youtu.be/YYU-dJ7_UZo)
 
-1.  [Getting Started #1: Setup Working Environment](https://youtu.be/C1jGdht7E44)
+1.  [Getting Started #1: Setup Working Environment (video)](https://youtu.be/C1jGdht7E44)
 
-2.  [HTML Basics #1: Parts of an HTML File](https://youtu.be/ClUgsHxXwTc)
+2.  [HTML Basics #1: Parts of an HTML File (video)](https://youtu.be/ClUgsHxXwTc)
 
-3.  [HTML Basics #2: Essential Elements](https://youtu.be/j2daxQRmk0w)
+3.  [HTML Basics #2: Essential Elements (video)](https://youtu.be/j2daxQRmk0w)
 
-4.  [HTML Basics #3: Semantic Structure](https://youtu.be/8wdjZTfnhXs)
+4.  [HTML Basics #3: Semantic Structure (video)](https://youtu.be/8wdjZTfnhXs)
 
-5.  [HTML Basics #4: Blog Layout](https://youtu.be/NWCO-XHpVP0)
+5.  [HTML Basics #4: Blog Layout (video)](https://youtu.be/NWCO-XHpVP0)
 
-6.  [HTML Basics #5: Card Layout](https://youtu.be/k6MFToyik9c)
+6.  [HTML Basics #5: Card Layout (video)](https://youtu.be/k6MFToyik9c)
 
-7.  [Accessibility Basics #1: Creating Interfaces for All Web Users](https://youtu.be/F0iNy65L3_w)
+7.  [Accessibility Basics #1: Creating Interfaces for All Web Users (video)](https://youtu.be/F0iNy65L3_w)
 
-8.  [CSS Basics #1: Intro to CSS / How to Write CSS](https://youtu.be/CUlPI1f_pPE)
+8.  [CSS Basics #1: Intro to CSS / How to Write CSS (video)](https://youtu.be/CUlPI1f_pPE)
 
-9.  [CSS Basics #2: Layout and the Box Model](https://youtu.be/J3Pi4VyQCiI)
+9.  [CSS Basics #2: Layout and the Box Model (video)](https://youtu.be/J3Pi4VyQCiI)
 
-10. [CSS Basics #3: Essential Properties and the Class Selector](https://youtu.be/P-xGz-jghTg)
+10. [CSS Basics #3: Essential Properties and the Class Selector (video)](https://youtu.be/P-xGz-jghTg)
 
-11. [CSS Basics #4: Understanding the Cascade](https://youtu.be/RhyaNtJ8Cpg)
+11. [CSS Basics #4: Understanding the Cascade (video)](https://youtu.be/RhyaNtJ8Cpg)
 
-12. [Accessibility Basics #2: Structure and Styling Considerations](https://youtu.be/Aif7KlEd1fk)
+12. [Accessibility Basics #2: Structure and Styling Considerations (video)](https://youtu.be/Aif7KlEd1fk)
 
-13. [CSS Basics #5: Style a Blog Layout](https://youtu.be/e6nBu5aFK8M)
+13. [CSS Basics #5: Style a Blog Layout (video)](https://youtu.be/e6nBu5aFK8M)
 
-14. [CSS Basics #6: Style a Card Layout](https://youtu.be/WtQMRsYWgzM)
+14. [CSS Basics #6: Style a Card Layout (video)](https://youtu.be/WtQMRsYWgzM)
 
-15. [CSS Basics #7: Browser Compatibility](https://youtu.be/YqNUfZAesOY)
+15. [CSS Basics #7: Browser Compatibility (video)](https://youtu.be/YqNUfZAesOY)
 
-16. [CSS Basics #8: Responsive Design](https://youtu.be/y_SX7m5NAM4)
+16. [CSS Basics #8: Responsive Design (video)](https://youtu.be/y_SX7m5NAM4)
 
 ### Capstone Website Project: Unicorn Space Tours
 
